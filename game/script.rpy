@@ -44,15 +44,19 @@ label start:
     # image visitor = VISITORS[0]
     # $ image_id = renpy.random.randint(0, 8)
     # image visitor = 'stalker1.png'
-    image visitor = renpy.random.choice(VISITORS)
+    
+    $ charlook = renpy.random.choice(VISITORS)
+
+    image visitor:
+        charlook
     
     show visitor:
         xpos -500
         ypos 400
-        linear 2.0 zoom 2.0 xpos 300 ypos 300
+        linear 0.5 zoom 2.0 xpos 300 ypos 300
 
     # Ждём, пока посетитель дойдёт до стола
-    pause 2
+    pause 0.5
 
     # Показываем реплику посетителя
     $ e = Character(renpy.random.choice(names))
@@ -76,10 +80,10 @@ label start:
     show visitor:
         xpos 300
         ypos 300
-        linear 2 zoom 1.0 xpos -600 ypos 400
+        linear 0.5 zoom 1.0 xpos -600 ypos 400
 
     # Ждём ухода посетителя
-    pause 4
+    pause 0.5
 
     # Возвращаемся к началу цикла
     jump start
