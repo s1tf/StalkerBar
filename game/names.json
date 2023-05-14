@@ -1,0 +1,4342 @@
+[
+    {
+        "base": "Мороз",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кисел",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Поляк",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Виноград",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Крыл",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Калин",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Ермак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Масл",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Леон",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гром",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Малыш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Пан",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Румян",
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Тихомир",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Юд",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Бирюк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горбун",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Белоус",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Цвет",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Вет",
+        "gender": 1,
+        "nullpostfix": "ер",
+        "postfix": "р"
+    },
+    {
+        "base": "Лев",
+        "gender": 0,
+        "nullpostfix": "и",
+        "postfix": ""
+    },
+    {
+        "base": "Мал",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ьц"
+    },
+    {
+        "base": "Логин",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Дем",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Хох",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ол",
+        "postfix": "л"
+    },
+    {
+        "base": "Молчан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Литвин",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ушак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Бород",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Некрас",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Балаш",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Блин",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Корот",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Крюк",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Никул",
+        "gender": 0,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "base": "Лар",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Зот",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сахар",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Шишк",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Черкас",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Нос",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Неча",
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Ждан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лавр",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кудряш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Голов",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Пан",
+        "gender": 0,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Шестак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горде",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Зим",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Овсянник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сувор",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горбач",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Копыл",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кулеш",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Шил",
+        "fl_nick": true,
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Большак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Шаповал",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Покров",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горел",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Зуб",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Куприян",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Щербак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кудряв",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Кузнец",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Поп",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Новик",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Корол",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Ковал",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Мельник",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Казак",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Коновал",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Пономар",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Овчинник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Колесник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Стрел",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Стрел",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ьц"
+    },
+    {
+        "base": "Стрельник",
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гончар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Княз",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Майор",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Рыбак",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Рыб",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Рыбк",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Плотник",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Калашник",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Богомол",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кожевник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Токар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Бочар",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сокол",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Волк",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лебед",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Коз",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ел",
+        "postfix": "л"
+    },
+    {
+        "base": "Ор",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ел",
+        "postfix": "л"
+    },
+    {
+        "base": "За",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "яц",
+        "postfix": "йц"
+    },
+    {
+        "base": "Солов",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ей",
+        "postfix": "ь"
+    },
+    {
+        "base": "Вороб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ей",
+        "postfix": "ь"
+    },
+    {
+        "base": "Сорок",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Медвед",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Собол",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Куниц",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Жук",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Баран",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Комар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кулик",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Карп",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Черныш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Бык",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ворон",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ворон",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Голуб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Голуб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Журавл",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Грач",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кот",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Галк",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Сквор",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Ерш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мух",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Лобан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Боб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ер",
+        "postfix": "р"
+    },
+    {
+        "base": "Бобрик",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мурав",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ей",
+        "postfix": "ь"
+    },
+    {
+        "base": "Дрозд",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Зу",
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Петух",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гус",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Гусар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Беляк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Карас",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Лун",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Луц",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Окун",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Звер",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Селез",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ень",
+        "postfix": "н"
+    },
+    {
+        "base": "Чистяк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Берез",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Масленник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Третьяк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Колос",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Рож",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Рож",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Шмел",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Лап",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "оть",
+        "postfix": "т"
+    },
+    {
+        "base": "Лапш",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Зор",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "base": "Утк",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Столяр",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Зуб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ткач",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Золотар",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Кулак",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мещеряк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Маке",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Дьякон",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гуля",
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Бондар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Поздняк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кочет",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Сухан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Старост",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Калмык",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Колес",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Золот",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Крав",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Суббот",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Шуб",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Шут",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Щук",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Лос",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Винокур",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лап",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Голован",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Коров",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Розан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Козыр",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Русак",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Крюч",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Кошел",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Сыч",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Синиц",
+        "fl_noets": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Сирот",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Рог",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Конон",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лопат",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Рудак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Один",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Серебряк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Пан",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Дегтяр",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Орех",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Цар",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Шувал",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кондраш",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горюн",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Голик",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Курочк",
+        "fl_noets": true,    
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Латыш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сальник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Клю",
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Нос",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Озер",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Кольц",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Комиссар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Меркул",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кире",
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Хомяк",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Булат",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Бур",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Шапошник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Дружин",
+        "gender": 1,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Беля",
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Шевел",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Сусл",
+        "fl_nick": true,
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Швец",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Пастух",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Пасечник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Руб",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Быч",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Дьяк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кочет",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Дуб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Бессон",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ситник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Меш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Шар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Туман",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Бас",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Корчаг",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Болдыр",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Олейник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Чумак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Губан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Губ",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Губк",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Дубин",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Шульг",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Касатк",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Пирог",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Горох",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Старик",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Щег",
+        "gender": 1,
+        "nullpostfix": "ол",
+        "postfix": "л"
+    },
+    {
+        "base": "Колпак",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Чеснок",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Зык",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Верещаг",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Рудн",
+        "gender": 1,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "base": "Ширя",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Малин",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Черепан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Зелен",
+        "gender": 0,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Касьян",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Пугач",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Чиж",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кондрат",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ворон",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Капуст",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Сотник",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Косар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Белик",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сухар",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Белк",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Кулаг",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Жар",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Русан",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Вешняк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Волош",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Коз",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Худяк",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Жил",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Еж",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Толкач",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Вдов",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Баб",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Бабушк",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Ус",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лык",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Горл",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Коршун",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Постник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Дорох",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Свешник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гущ",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Калуг",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Блох",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Сур",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Кочерг",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Грек",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Казан",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Кор",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ень",
+        "postfix": "н"
+    },
+    {
+        "base": "Черня",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Сом",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Добрын",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "base": "Барсук",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Чеботар",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Москв",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Увар",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Рак",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Снегир",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Злоб",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Моргун",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Рябин",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Судак",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кукушк",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Калач",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гриб",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Звягин",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Корол",
+        "gender": 1,
+        "nullpostfix": "ек",
+        "postfix": "ьк"
+    },
+    {
+        "base": "Вит",
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Ремесл",
+        "gender": 2,
+        "nullpostfix": "о",
+        "postfix": ""
+    },
+    {
+        "base": "Кат",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ок",
+        "postfix": "к"
+    },
+    {
+        "base": "Кирп",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Книжник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кныш",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Коб",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Колых",
+        "gender": 1,
+        "nullpostfix": "ай",
+        "postfix": "а"
+    },
+    {
+        "base": "Дерка",
+        "gender": 0,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Драгун",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Груш",
+        "fl_nick": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Гно",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Плет",
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ень",
+        "postfix": "н"
+    },
+    {
+        "base": "Мазур",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Шолох",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Заик",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Ангел",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Дроб",
+        "gender": 0,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Лис",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Лисиц",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Мирошник",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гар",
+        "gender": 0,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Протас",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лукаш",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лещ",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Овчар",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Нем",
+        "gender": 1,
+        "nullpostfix": "ец",
+        "postfix": "ц"
+    },
+    {
+        "base": "Музык",
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Москал",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Таран",
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Крохал",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Свинар",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Крахмал",
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Пряник",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Школьник",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сапожник",
+        "fl_nick": true,
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Красильщик",
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Резник",
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Скляр",
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Спивак",
+        "fl_noets": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Бел",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Черн",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Красн",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Сер",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Сед",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ой",
+        "postfix": ""
+    },
+    {
+        "base": "Смирн",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Ряб",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ой",
+        "postfix": ""
+    },
+    {
+        "base": "Кругл",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Крут",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ой",
+        "postfix": ""
+    },
+    {
+        "base": "Широк",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Рыж",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Остр",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Долг",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Глух",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ой",
+        "postfix": ""
+    },
+    {
+        "base": "Беспал",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Хром",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ой",
+        "postfix": ""
+    },
+    {
+        "base": "Сух",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ой",
+        "postfix": ""
+    },
+    {
+        "base": "Сиз",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Безрук",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Гладк",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Куц",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Землян",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ой",
+        "postfix": ""
+    },
+    {
+        "base": "Кисл",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Бедн",
+        "fl_adjective": true,
+        "fl_nick": true,
+        "gender": 1,
+        "nullpostfix": "ый",
+        "postfix": ""
+    },
+    {
+        "base": "Белоцерковск",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Белозерск",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Вознесенск",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Вишневск",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Высоцк",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Земск",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Касперск",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Савицк",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Троицк",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Успенск",
+        "fl_adjective": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": ""
+    },
+    {
+        "base": "Фирс",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Андриан",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Терех",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ульян",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Аге",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Никон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Селиван",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Бажен",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кост",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "base": "Филимон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ларион",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сазон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Нефед",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Корнил",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Любим",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лук",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Фрол",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Давыд",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Тит",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мартын",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Федот",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Иса",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Филат",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Емельян",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Никифор",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гриш",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Ефрем",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Архип",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Аким",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ерем",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Тихомир",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лукьян",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Михе",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Нестер",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Симон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Прокоф",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Харитон",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Митрофан",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Аксен",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Софрон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Демид",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Елисе",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Сафон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Фаде",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Леонт",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Евдоким",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Терент",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Устин",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Фок",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Самоил",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Самсон",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Спиридон",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Авде",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Пахом",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Панкрат",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Род",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "base": "Марк",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Агафон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ермола",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Куприян",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Трифон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Артамон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Федосе",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Дорофе",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Дорош",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Антип",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Завьял",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Свирид",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Панфил",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Парфен",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Исак",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Алеш",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Булгак",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Евсе",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Пимен",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Пантеле",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Дубров",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Севастьян",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Вавил",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ерофе",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Анань",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "base": "Аник",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Астаф",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Яш",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Фом",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Сем",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Трош",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Фетис",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мина",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Окул",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Измаил",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Алех",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Демьян",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ереме",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Карташ",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Астах",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Малах",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Анох",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Маркел",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Шевц",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ермил",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Парамон",
+        "fl_name": true,
+        "fl_nick": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Агап",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мин",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Гур",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гур",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Ермол",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Глушк",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мурат",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Поликарп",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Елизар",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Федос",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кирич",
+        "fl_name": true,
+        "fl_noets": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Ваня",
+            "Ванюха",
+            "Вано",
+            "Ванька"
+        ],
+        "base": "Иван",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Вася",
+            "Васян",
+            "Василь",
+            "Васька"
+        ],
+        "base": "Васил",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Петя",
+            "Петруха",
+            "Петро",
+            "Петька"
+        ],
+        "base": "Петр",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Миша",
+            "Миха",
+            "Мишаня",
+            "Мишка"
+        ],
+        "base": "Михаил",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Федя",
+            "Федяй",
+            "Федюня",
+            "Федька"
+        ],
+        "base": "Федор",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Лёша",
+            "Лёха",
+            "Лёшыч",
+            "Алёша"
+        ],
+        "base": "Алексе",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Сёма",
+            "Сеня",
+            "Сёмка"
+        ],
+        "base": "Семен",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Егор",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Паша",
+            "Павлуха",
+            "Пахан",
+            "Пашка"
+        ],
+        "base": "Пав",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ел",
+        "postfix": "л"
+    },
+    {
+        "alt_names": [
+            "Стёпа",
+            "Стенька",
+            "Стёпка"
+        ],
+        "base": "Степан",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Коля",
+            "Колян",
+            "Мыкола",
+            "Колька"
+        ],
+        "base": "Никола",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Андрон",
+            "Андрюха",
+            "Дрон",
+            "Андрейка"
+        ],
+        "base": "Андре",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Макар",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Никитка",
+            "Никитос"
+        ],
+        "base": "Никит",
+        "fl_name": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Захар",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Боря",
+            "Борюсик",
+            "Борян",
+            "Борька"
+        ],
+        "base": "Борис",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Яша",
+            "Яшка"
+        ],
+        "base": "Яков",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": "л"
+    },
+    {
+        "alt_names": [
+            "Гриша",
+            "Гришаня",
+            "Грег",
+            "Гришка"
+        ],
+        "base": "Григор",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Рома",
+            "Ромчик",
+            "Ромыч",
+            "Ромка"
+        ],
+        "base": "Роман",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Серёжа",
+            "Серёга",
+            "Серый"
+        ],
+        "base": "Серге",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Кузя",
+            "Кузька"
+        ],
+        "base": "Кузьм",
+        "fl_name": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Саша",
+            "Саня",
+            "Санёк",
+            "Санька"
+        ],
+        "base": "Александр",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Дима",
+            "Димон",
+            "Димыч",
+            "Димка"
+        ],
+        "base": "Дмитри",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Илюша",
+            "Илюха"
+        ],
+        "base": "Иль",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "я",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Макс",
+            "Максик",
+            "Максон",
+            "Максимка"
+        ],
+        "base": "Максим",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Тоха",
+            "Антошка"
+        ],
+        "base": "Антон",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Тарик"
+        ],    
+        "base": "Тарас",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Филя",
+            "Филиппок",
+            "Фил",
+            "Филька"
+        ],
+        "base": "Филипп",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Герасим",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+            "alt_names": [
+            "Бодя"
+        ],    
+        "base": "Богдан",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Осип",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Сидор",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Матве",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Марк",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Мирон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Деня",
+            "Денчик"
+        ],
+        "base": "Денис",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Гаврил",
+        "fl_name": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "base": "Тихон",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Афанас",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Данил",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Савел",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Тимофе",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Абрам",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Ефим",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Назар",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Родион",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Лазар",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "base": "Клим",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Прохор",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Наум",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Потап",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Трофим",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Кирилл",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Моисе",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "base": "Кондрат",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Игнат",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Игнат",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Матюш",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 0,
+        "nullpostfix": "а",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Костя",
+            "Костян"
+        ],
+        "base": "Константин",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Вова",
+            "Вован",
+            "Вовчик",
+            "Володя"
+        ],
+        "base": "Владимир",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Зинов",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Лёва"
+        ],
+        "base": "Л",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ев",
+        "postfix": "ьв"
+    },
+    {
+        "alt_names": [
+            "Тёма",
+            "Артюха",
+            "Тёмыч",
+            "Артёмка"
+        ],
+        "base": "Артем",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+	"alt_names": [
+            "Лавр"
+        ],
+        "base": "Лаврент",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Глеб",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Коще",
+        "fl_name": true,
+        "fl_obsolete": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Гоша",
+            "Игорёша",
+            "Игорян",
+            "Игорёк"
+        ],
+        "base": "Игор",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ь",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Слава",
+            "Влад",
+            "Славян",
+            "Славик"
+        ],
+        "base": "Владислав",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Ярик"
+        ],
+        "base": "Ярослав",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Сеня",
+            "Арсен"
+        ],
+        "base": "Арсен",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Женя",
+            "Женёк",
+            "Женяй",
+            "Евген"
+        ],
+        "base": "Евген",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "base": "Тимур",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Гоша"
+        ],
+        "base": "Георги",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "й",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Вадя",
+            "Вадик"
+        ],
+        "base": "Вадим",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Слава",
+            "Славик",
+            "Славка"
+        ],
+        "base": "Вячеслав",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "base": "Артур",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Витя",
+            "Витёк",
+            "Витяй",
+            "Витька"
+        ],
+        "base": "Виктор",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Стас"
+        ],
+        "base": "Станислав",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Лёня",
+            "Лёнчик",
+            "Лёнька"
+        ],
+        "base": "Леонид",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Юрок",
+            "Юра"
+        ],
+        "base": "Юр",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Виталик",
+            "Виталик",
+            "Веталь",
+            "Виталька"
+        ],
+        "base": "Витал",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Сева",
+            "Севка"
+        ],
+        "base": "Всеволод",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Толя",
+            "Толик",
+            "Толян"
+        ],
+        "base": "Анатол",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Валера",
+            "Валера",
+            "Валерон",
+            "Валерка"
+        ],
+        "base": "Валер",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Гена",
+            "Гена",
+            "Геныч",
+            "Генка"
+        ],
+        "base": "Генад",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    },
+    {
+        "alt_names": [
+            "Валя",
+            "Валёк",
+            "Валька"
+        ],
+        "base": "Валентин",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "",
+        "postfix": ""
+    },
+    {
+        "alt_names": [
+            "Аркаша"
+        ],
+        "base": "Аркад",
+        "fl_name": true,
+        "gender": 1,
+        "nullpostfix": "ий",
+        "postfix": "ь"
+    }
+]
