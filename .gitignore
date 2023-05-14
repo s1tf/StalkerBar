@@ -3,5 +3,6 @@
 /progressive_download.txt
 /log.txt
 /errors.txt
-game/saves/auto-1-LT1.save
-game/saves/auto-1-LT1.save
+/game/saves/
+/game/cache/
+*.rpyc

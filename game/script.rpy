@@ -1,7 +1,14 @@
 ﻿# Вы можете расположить сценарий своей игры в этом файле.
 
 init python:
-    names = renpy.open_file('names.txt', encoding='utf-8').read().split('\n')
+
+    # Подгружаем генератор имён
+    from names import Names
+    names_all_json = renpy.open_file('names_all.json', encoding='utf-8')
+    names_json = renpy.open_file('names.json', encoding='utf-8')
+    nicknames = renpy.open_file('nicknames.json', encoding='utf-8')
+    names = Names(names_all_json, names_json, nicknames)
+
     GREETINGS = ['Приветствую!', 'Приветствую, уважаемый!', 'Привет!', 'Ну, здравствуй!', 'Здарова!', 'Здарова, бармен!', 'Хай!', 'Здоровеньки!', 'Салют!', 'Доброго!', 'Алё!', 'Алё, гараж!', 'Здрасьте.', 'Здрасьте в хату.', 'Привет, буфет!', 'Моё почтение!']
     ORDERS = [('Плесни чего-нибудь покрепче, в горле саднит.', 'Налить водки', 'Налить пива'),
               ('Жрать охота', 'Дать банку тушёнки', 'Дать батон хлеба'),
@@ -34,7 +41,7 @@ label start:
     pause 0.5
 
     # Показываем реплику посетителя
-    $ e = Character(renpy.random.choice(names))
+    $ e = Character(names.new())
     $ e(renpy.random.choice(GREETINGS), interact=True)
     $ order = renpy.random.choice(ORDERS)
     $ e(order[0], interact=True)
