@@ -7,29 +7,12 @@ init python:
               ('Жрать охота', 'Дать банку тушёнки', 'Дать батон хлеба'),
               ('Выпить охота', 'Налить водки', 'Налить пива'),
               ('Выпить охота', 'Налить водки', 'Налить пива')]
-    THANKS = ['Благодарю!', 'Ну, спасибо!', 'Отлично, бывай!', 'Ещё зайду, бармен', 'Ух, мля, хорошо...', 'Спасибо!', 'Благодарствую!', 'Мерси, ёпта!', 'Давай, увидимся!', 'До встречи, бармен!', 'Покедывай!', 'Чао!']
-    DECLINES = ['Ну и пошёл ты...', 'Ну ты и козёл!', 'От гнида.', 'Вот ты борзый.', 'Ладно...', 'Зря, бармен. Клиента лишаешься.', 'Ну, дело твоё...', 'Прогоришь ты с таким подходом.', 'Вот так да?', 'Ладно-ладно. Я тебе это припомню.', 'Вот, блин. А ешё бар называется...', 'Ладно, пойду к конкуренту.']
+    THANKS = ['Благодарю!', 'Ну, спасибо!', 'Отлично, бывай!', 'Ещё зайду, бармен', 'Ух, мля, хорошо...', 'Спасибо!', 'Благодарствую!', 'Мерси, ёпта!', 'Давай, увидимся!', 'До встречи, бармен!', 'Покедывай!', 'Чао!', 'Береги себя, бармен.', 'Бывай, бармен.', 'Покеда!']
+    DECLINES = ['Ну и пошёл ты...', 'Ну ты и козёл!', 'От гнида.', 'Вот ты борзый.', 'Ладно...', 'Зря, бармен. Клиента лишаешься.', 'Ну, дело твоё...', 'Прогоришь ты с таким подходом.', 'Вот так, да?', 'Ладно-ладно. Я тебе это припомню.', 'Вот, блин. А ешё бар называется...', 'Ладно, пойду к конкуренту.']
     VISITORS = ['stalker1.png', 'stalker2.png', 'stalker3.png', 'stalker4.png', 'stalker5.png', 'stalker6.png', 'stalker7.png', 'stalker8.png', 'stalker9.png']
 
 init:
-    # image black = "#000000"
     image bg bar = 'bar.jpg'  # https://www.artstation.com/artwork/1X1r8
-    # image stalker = 'stalker.png'  # https://imgpng.ru/download/63129
-    # image stalker:
-    #    ypos 1
-    # image eileen happy = "eileen1.png"
-    # image eileen sad = "eileen2.png"
-    # image eileen surprised = "eileen3.png"
-
-# Определение персонажей игры.
-# define e = Character('Эйлин', color="#c8ffc8")
-# define visitor = Character('Сталкер')
-# define visitor = Character(name=generate_name(), dynamic=True)
-
-# Вместо использования оператора image можете просто
-# складывать все ваши файлы изображений в папку images.
-# Например, сцену bg room можно вызвать файлом "bg room.png",
-# а eileen happy — "eileen happy.webp", и тогда они появятся в игре.
 
 # Игра начинается здесь:
 label start:
@@ -37,16 +20,8 @@ label start:
     # Подгружаем фон
     scene bg bar
 
-    # Появляется посетитель
-    # $ renpy.random.shuffle(VISITORS)
-    # $ print(VISITORS)
-    # $ image_name = f'stalker{renpy.random.randint(0, 8)}.png'
-    # image visitor = VISITORS[0]
-    # $ image_id = renpy.random.randint(0, 8)
-    # image visitor = 'stalker1.png'
-    
+    # Выбираем рандомную картинку посетителя
     $ charlook = renpy.random.choice(VISITORS)
-
     image visitor:
         charlook
     
