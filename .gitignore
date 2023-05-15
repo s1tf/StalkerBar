@@ -3,6 +3,12 @@
 /progressive_download.txt
 /log.txt
 /errors.txt
+<<<<<<< HEAD
+game/saves/auto-1-LT1.save
+game/saves/auto-1-LT1.save
+.vscode/settings.json
+=======
 /game/saves/
 /game/cache/
 *.rpyc
+>>>>>>> 62afdffaf02118d22dd018bfeaf8500fe8e31b2d
